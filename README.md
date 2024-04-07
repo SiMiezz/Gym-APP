@@ -14,21 +14,30 @@ Docker backend
 Struttura:
 Design pattern ?
 librerie/package/tecnologie ?
+login oauth2 o jwt ?
 
 
 Funzionalità:
-login oauth2 o jwt ?
+Creazione account: sesso, età, altezza, peso, obiettivi(dimagrimento, massa, mantenimento), livello attività (calcolo calorie bruciate)
 
-Home: creazione scheda, creazione dieta, creazione dieta e scheda: scheda tag dieta
+Sezioni app:
+Home: Riassunto workout, workout famosi, ricerca workout, reminder dieta/workout, pr
 
-Stretching: Riscaldamento(pre workout), Defaticamento(post workout), scelta routine, esercizi, durata, immagini/video/gif esercizi, descrizione esercizi
 
-Scheda: creazione, salvataggio, modifica, scelta giorni settimanali e durata(settimane o mesi),scelta esercizi, tipologia di allenamento(bodybuilding, powerlifting, corpo libero, powerbuilding), metodologie di serie(piramidale, stripping, superset, giantset, cedimento max, isometrie), peso per serie, durata indicativa allenamento (min/ore), tempi di recupero(timer), immagini/video/gif esercizi, database esercizi, note esercizi, obiettivi(carichi), scarica pdf, calorie bruciate
+Workout:
+creazione scheda
+Stretching := Riscaldamento(pre workout), Defaticamento(post workout), scelta routine, esercizi, durata, immagini/video/gif esercizi, descrizione esercizi
 
-Workout: Running
+Scheda := creazione, salvataggio, modifica, scelta giorni settimanali e durata(settimane o mesi),scelta esercizi, tipologia di allenamento(bodybuilding, powerlifting, corpo libero, powerbuilding), metodologie di serie(piramidale, stripping, superset, giantset, cedimento max, isometrie), peso per serie, durata indicativa allenamento (min/ore), tempi di recupero(timer), immagini/video/gif esercizi, database esercizi, note esercizi, obiettivi(carichi), scarica pdf, calorie bruciate
+
+
+Activity: Running, Biking, calcolo percorso, distanza, mappa, calorie ?
  
-Alimentazione: dieta, obiettivi(dimagrimento, massa, mantenimento), conteggio calorie, divisione pasti, macro nutrienti, 
 
-Profilo: Peso, misure, obiettivi(carichi,dieta), cambio lingua, light mode/dark mode, impostazioni
+Alimentazione: creazione dieta, conteggio calorie, divisione pasti, macro nutrienti, acqua
 
-uso AI creazione scheda e dieta
+
+AI: creazione scheda/dieta, chat, consigli alimentazione e workout
+
+
+Profilo: storico(Peso, misure corpo, pesi esercizi), cambio lingua ed unità di misura, light mode/dark mode,  impostazioni
