@@ -34,11 +34,9 @@ Scheda := creazione, salvataggio, modifica, scelta giorni settimanali e durata(s
 Alimentazione: creazione dieta, conteggio calorie, divisione pasti, macro nutrienti, acqua
 
 
-AI: creazione scheda/dieta, chat, consigli alimentazione e workout
-
-
 Profilo: storico(Peso, misure corpo, pesi esercizi), cambio lingua ed unità di misura, light mode/dark mode,  impostazioni
 
 
 Sviluppi futuri:
 Activity: Running, Biking, calcolo percorso, distanza, mappa, calorie ?
+AI: creazione scheda/dieta, chat, consigli alimentazione e workout ?
